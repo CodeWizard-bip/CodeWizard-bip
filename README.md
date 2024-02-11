@@ -1,6 +1,5 @@
 <div align="center">
     <h1 align="center">¡Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, soy Jose Ignacio!</h1>
-    <h4 align="center">Soy Data Scientist y desarrollador web.</h4>
 </div>
 
 
