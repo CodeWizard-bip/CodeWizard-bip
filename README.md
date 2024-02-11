@@ -33,7 +33,7 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
 - HTML
 - CSS 
 - Django
-![Java](https://github.com/CodeWizard-bip/skill-icons/blob/main/icons/Java-Light.svg)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 Para la generación y publicación de informes utilizo Power Bi y Tableau.
