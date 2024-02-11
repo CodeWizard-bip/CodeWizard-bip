@@ -53,6 +53,22 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
 <p align="left">
  <img src="https://skillicons.dev/icons?i=js" alt="Descripción del ícono 1">
 </p>
+
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=github" alt="Descripción del ícono 1">
+</p>
+
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=docker" alt="Descripción del ícono 1">
+</p>
+
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=css" alt="Descripción del ícono 1">
+</p>
+
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=" alt="Descripción del ícono 1">
+</p>
 - Java 
 - PySpark
 - Hiveos
