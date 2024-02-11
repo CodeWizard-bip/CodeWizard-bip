@@ -33,7 +33,7 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
 - HTML
 - CSS 
 - Django
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=1)](https://skillicons.dev)
 
 
 Para la generación y publicación de informes utilizo Power Bi y Tableau.
