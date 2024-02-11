@@ -132,6 +132,8 @@ En el Bootcamp de Soy Henry, donde afiancé los conocimientos que tenía y pude 
 
 ## Contactos 📞
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 <p align="left">
     <a href="mailto:atlasnexus193@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
