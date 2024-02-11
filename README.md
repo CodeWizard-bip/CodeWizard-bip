@@ -33,9 +33,8 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
 - HTML
 - CSS 
 - Django
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:4px">
-</p>
+![image](https://github.com/CodeWizard-bip/CodeWizard-bip/assets/127153979/751cac6c-9ab9-4714-8865-f3c2dcb9ffd0)
+
 Para la generación y publicación de informes utilizo Power Bi y Tableau.
 
 ## Contactos
