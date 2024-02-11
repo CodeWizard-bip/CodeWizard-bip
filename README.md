@@ -41,6 +41,18 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
 <p align="left">
  <img src="https://skillicons.dev/icons?i=powershell" alt="Descripción del ícono 1">
 </p>
+
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=mysql" alt="Descripción del ícono 1">
+</p>
+
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=postgres" alt="Descripción del ícono 1">
+</p>
+
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=js" alt="Descripción del ícono 1">
+</p>
 - Java 
 - PySpark
 - Hiveos
