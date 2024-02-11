@@ -22,7 +22,9 @@ Mis objetivos son poder contribuir al mundo con análisis que puedan predecir co
 
 En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude desarrollar mi experiencia en el trabajo colaborativo, las tecnologías que manejo principalmente son:
 
-- Python
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=py" alt="Descripción del ícono 1">
+</p>
 - Java 
 - PySpark
 - Hiveos
