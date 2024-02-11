@@ -16,6 +16,11 @@ Soy un **Data Scientist** orientado a la preparación, carga y análisis de dato
 
 Desde hace 6 años conocí el mundo del trading y eso me llevó rápidamente a adentrarme en el mundo de la programación y el desarrollo de modelos de predicción de precios, y así también conocí el maravilloso mundo del Data Science, el cual me ayudó a manejar grandes volúmenes de datos para poder crear modelos robustos de predicción y cambios de tendencias en varios activos e instrumentos financieros.
 
+<div align=center>
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+    <p>Loading</p>
+</div>
+
 ## ¿Qué hago? 💼
 
 Actualmente me dedico a operar en el mercado de divisas Forex y realizar proyectos que permitan la automatización algorítmica de modelos de comercio. Para mejorar mi destreza en el tratamiento de grandes volúmenes de datos, sigo aprendiendo y practicando generando informes que predigan cambios a medio y largo plazo en distintas áreas como la económica, climática, demográfica, etc.
