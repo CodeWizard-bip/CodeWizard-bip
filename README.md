@@ -11,27 +11,23 @@
 </div>
 
 
-## ¿Quien soy?
+## ¿Quién soy? 🤔
 
-Soy un **Data Scientics** orientado a la preparacion carga y analisis de datos para generar informes y recomendaciones a empresas y compañías que necesiten mejorar y actualizar sus operaciones usando el Big Data.
+Soy un **Data Scientist** orientado a la preparación, carga y análisis de datos para generar informes y recomendaciones a empresas y compañías que necesiten mejorar y actualizar sus operaciones usando el Big Data. También tengo conocimientos en el desarrollo web en la parte Frontend y Backend para la creación y despliegue de proyectos en la web.
 
-También tengo conocimiento en el desarrollo web en la parte Frontend y Backend para la creación y despliegue de proyectos en la web.
+Desde hace 6 años conocí el mundo del trading y eso me llevó rápidamente a adentrarme en el mundo de la programación y el desarrollo de modelos de predicción de precios, y así también conocí el maravilloso mundo del Data Science, el cual me ayudó a manejar grandes volúmenes de datos para poder crear modelos robustos de predicción y cambios de tendencias en varios activos e instrumentos financieros.
 
-Desde hace 6 años conocí el mundo del trading y eso me llevó rápidamente a adentrarme en el mundo de la programación y el desarrollo de modelos de predicción de precios, y así también conocí el maravilloso mundo del Data Scientisc,
+## ¿Qué hago? 💼
 
-el cual me ayudó a manejar grandes volúmenes de datos para poder crear modelos robustos de predicción y cambios de tendencias en varios activos e instrumentos financieros.
+Actualmente me dedico a operar en el mercado de divisas Forex y realizar proyectos que permitan la automatización algorítmica de modelos de comercio. Para mejorar mi destreza en el tratamiento de grandes volúmenes de datos, sigo aprendiendo y practicando generando informes que predigan cambios a medio y largo plazo en distintas áreas como la económica, climática, demográfica, etc.
 
-## ¿Que hago?
+## ¿Hacia dónde me dirijo? 🚀
 
-Actualmente me dedico a operar en el mercado de divisas Forex y realizar proyectos que permitan la automatización algorítmica de modelos de comercio, para mejorar mi destreza en el tratamiento de grandes volúmenes de datos sigo aprendiendo y practicando generando informes que predigan cambios a medio y largo plazo en distintas áreas como la económica, climática, demográfica etc...
+Mis objetivos son poder contribuir al mundo con análisis que puedan predecir con alto grado de acierto los cambios que transcurrirán en los próximos años para poder tomar mejores decisiones en el ámbito social, medioambiental y económico de instituciones y compañías que trabajen en el desarrollo de nuevos productos y servicios.
 
-## ¿Hacia donde me dirijo?
+## ¿Qué tecnologías utilizo? 💻
+En el Bootcamp de Soy Henry, donde afiancé los conocimientos que tenía y pude desarrollar mi experiencia en el trabajo colaborativo, las tecnologías que manejo principalmente son:
 
-Mis objetivos son poder contribuir al mundo con análisis que puedan predecir con alto grado de acierto los cambios que transcurrirán en los próximos años para poder tomar mejores decisiones en el ámbito social, medio ambiental y económico de instituciones y compañías que trabajen en el desarrollo de nuevos productos y servicios.
-
-## ¿Que tecnologias utilizo?
-
-En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude desarrollar mi experiencia en el trabajo colaborativo, las tecnologías que manejo principalmente son:
 
 <table align="center">
   <tr>
