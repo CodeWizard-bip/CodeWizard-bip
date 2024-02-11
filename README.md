@@ -129,7 +129,6 @@ En el Bootcamp de Soy Henry, donde afiancé los conocimientos que tenía y pude 
 ## Para la generación y publicación de informes 📊
 
 ![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
-![Static Badge](https://img.shields.io/badge/-Jupyter_Notebook-gray?style=flat&logo=jupyter)
 
 ## Contactos 📞
 
