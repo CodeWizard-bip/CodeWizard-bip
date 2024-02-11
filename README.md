@@ -86,15 +86,100 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
  <img src="https://skillicons.dev/icons?i=aws" alt="Descripción del ícono 1">
 </p>
 
-| | | |
-|:--:|:--:|:--:|
-| !Python | !Java | !PyTorch |
-| !VS Code | !PowerShell | !MySQL |
-| !Postgres | !JavaScript | !GitHub |
-| !Docker | !CSS | !HTML |
-| !Django | !GCP | !Git |
-| !AWS | | |
-
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=py" alt="Descripción del ícono 1">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=java" alt="Descripción del ícono 1">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="Descripción del ícono 1">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="Descripción del ícono 1">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=powershell" alt="Descripción del ícono 1">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="Descripción del ícono 1">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="Descripción del ícono 1">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js" alt="Descripción del ícono 1">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=github" alt="Descripción del ícono 1">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Descripción del ícono 1">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=css" alt="Descripción del ícono 1">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=django" alt="Descripción del ícono 1">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="Descripción del ícono 1">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git" alt="Descripción del ícono 1">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws" alt="Descripción del ícono 1">
+      </p>
+    </td>
+  </tr>
+</table>
 
 Para la generación y publicación de informes utilizo Power Bi y Tableau.
 
