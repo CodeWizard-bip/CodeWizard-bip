@@ -33,6 +33,10 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
 - HTML
 - CSS 
 - Django
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=1" alt="Descripción del ícono 1">
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=1)](https://skillicons.dev)
 
 
