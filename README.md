@@ -67,7 +67,7 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
 </p>
 
 <p align="left">
- <img src="https://skillicons.dev/icons?i=" alt="Descripción del ícono 1">
+ <img src="https://skillicons.dev/icons?i=HTML" alt="Descripción del ícono 1">
 </p>
 - Java 
 - PySpark
