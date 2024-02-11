@@ -145,6 +145,20 @@ Linkedin: [Jose Ignacio Viola](https://www.linkedin.com/in/jose-ignacio-viola-87
 </p>
 
 
+## Para la generación y publicación de informes 📊
+
+![Power BI](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-gray?style=flat&logo=jupyter)
+
+## Contactos 📞
+
+LinkedIn: [Jose Ignacio Viola](https://www.linkedin.com/in/jose-ignacio-viola-878943265/)
+
+[Gmail](mailto:atlasnexus193@gmail.com)
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jose-ignacio-viola-878943265/)
+
+
 <!--
 **CodeWizard-bip/CodeWizard-bip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
