@@ -86,6 +86,14 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
  <img src="https://skillicons.dev/icons?i=aws" alt="Descripción del ícono 1">
 </p>
 
+| | | |
+|:--:|:--:|:--:|
+| !Python | !Java | !PyTorch |
+| !VS Code | !PowerShell | !MySQL |
+| !Postgres | !JavaScript | !GitHub |
+| !Docker | !CSS | !HTML |
+| !Django | !GCP | !Git |
+| !AWS | | |
 
 
 Para la generación y publicación de informes utilizo Power Bi y Tableau.
