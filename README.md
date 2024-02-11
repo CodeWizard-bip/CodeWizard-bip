@@ -42,6 +42,7 @@ Linkedin: [Jose Ignacio Viola](https://www.linkedin.com/in/jose-ignacio-viola-87
 
 Correo: atlasnexus193@gmail.com
 
+![Ciencia de datos](https://imgur.com/NGKDEwd)
 <!--
 **CodeWizard-bip/CodeWizard-bip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
