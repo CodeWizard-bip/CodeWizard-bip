@@ -25,6 +25,10 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
 <p align="left">
  <img src="https://skillicons.dev/icons?i=py" alt="Descripción del ícono 1">
 </p>
+
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=java" alt="Descripción del ícono 1">
+</p>
 - Java 
 - PySpark
 - Hiveos
