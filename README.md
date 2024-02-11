@@ -131,8 +131,6 @@ En el Bootcamp de Soy Henry, donde afiancé los conocimientos que tenía y pude 
 
 ## Contactos 📞
 
-Linkedin: [Jose Ignacio Viola](https://www.linkedin.com/in/jose-ignacio-viola-878943265/%29)
-
 <p align="left">
     <a href="mailto:atlasnexus193@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
