@@ -21,6 +21,8 @@ Desde hace 6 años conocí el mundo del trading y eso me llevó rápidamente a a
 
 Actualmente me dedico a operar en el mercado de divisas Forex y realizar proyectos que permitan la automatización algorítmica de modelos de comercio. Para mejorar mi destreza en el tratamiento de grandes volúmenes de datos, sigo aprendiendo y practicando generando informes que predigan cambios a medio y largo plazo en distintas áreas como la económica, climática, demográfica, etc.
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 ## ¿Hacia dónde me dirijo? 🚀
 
 Mis objetivos son poder contribuir al mundo con análisis que puedan predecir con alto grado de acierto los cambios que transcurrirán en los próximos años para poder tomar mejores decisiones en el ámbito social, medioambiental y económico de instituciones y compañías que trabajen en el desarrollo de nuevos productos y servicios.
