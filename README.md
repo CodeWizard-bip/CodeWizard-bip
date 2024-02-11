@@ -67,9 +67,8 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
 </p>
 
 <p align="left">
- <img src="https://skillicons.dev/icons?i=HTML" alt="Descripción del ícono 1">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
 </p>
-- Java 
 - PySpark
 - Hiveos
 - Docker
