@@ -131,7 +131,11 @@ Linkedin: [Jose Ignacio Viola](https://www.linkedin.com/in/jose-ignacio-viola-87
     </a>
 </p>
 
-Correo: atlasnexus193@gmail.com
+<p align="left">
+    <a href="https://www.linkedin.com/in/jose-ignacio-viola-878943265/">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+    </a>
+</p>
 
 
 <!--
