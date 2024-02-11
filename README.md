@@ -130,9 +130,7 @@ En el Bootcamp de Soy Henry, donde afiancé los conocimientos que tenía y pude 
 
 ![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
 
-## Contactos 📞
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Contactos 📞 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="left">
     <a href="mailto:atlasnexus193@gmail.com">
