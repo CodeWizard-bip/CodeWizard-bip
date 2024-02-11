@@ -77,15 +77,11 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
 <p align="left">
  <img src="https://skillicons.dev/icons?i=gcp" alt="Descripción del ícono 1">
 </p>
-- PySpark
-- Hiveos
-- Docker
-- MySQL
-- Ruby
-- JavaScript
-- HTML
-- CSS 
-- Django
+
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=git" alt="Descripción del ícono 1">
+</p>
+
 <p align="left">
  <img src="https://skillicons.dev/icons?i=aws" alt="Descripción del ícono 1">
 </p>
