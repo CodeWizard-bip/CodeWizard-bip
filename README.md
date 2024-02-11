@@ -117,8 +117,10 @@ En el Bootcamp de Soy Henry donde afiancé los conocimientos que tenía y pude d
   </tr>
 </table>
 
-Para la generación y publicación de informes utilizo Power Bi y Tableau.
+Para la generación y publicación de informes
 
+![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
+![Static Badge](https://img.shields.io/badge/-Jupyter_Notebook-gray?style=flat&logo=jupyter)
 ## Contactos
 
 Linkedin: [Jose Ignacio Viola](https://www.linkedin.com/in/jose-ignacio-viola-878943265/%29)
